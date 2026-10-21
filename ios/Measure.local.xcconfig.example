@@ -1,0 +1,4 @@
+// Copy this file to Measure.local.xcconfig and use the values from your Measure iOS app.
+MEASURE_API_KEY =
+// xcconfig treats // as a comment, so /$()/ becomes // after expansion.
+MEASURE_API_URL = https:/$()/ingest.measure.sh

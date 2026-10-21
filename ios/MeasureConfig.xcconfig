@@ -1,0 +1,3 @@
+MEASURE_API_KEY =
+MEASURE_API_URL =
+#include? "Measure.local.xcconfig"
